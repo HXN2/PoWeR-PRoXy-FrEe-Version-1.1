@@ -366,7 +366,7 @@ if S =='2':
 
 import webbrowser
 
-url = "https://www.instagram.com/hxn_here/"
+url = "https://www.instagram.com/hxn.py/"
 
 webbrowser.open(url)
 
